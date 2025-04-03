@@ -4,7 +4,7 @@
 This project is a personal portfolio website showcasing my skills, projects, and achievements. It is built using modern web technologies with a focus on clean design and responsiveness.
 
 ## Live Demo
-[View Portfolio](https://my-portfolio-topaz-five-28.vercel.app/)
+[View Portfolio](https://Binoyde12.github.io/My_Portfolio/)
 
 ## Features
 - Interactive and responsive design
