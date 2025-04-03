@@ -65,9 +65,8 @@ VITE_EMAILJS_PUBLIC_KEY=your_public_key
 ```
 
 ## Deployment
-This project is deployed on Vercel. For manual deployment:
+This project is deployed on Github pages. For manual deployment:
 - Push code to GitHub
-- Connect GitHub repository to Vercel
 - Deploy automatically from the main branch
 
 ## Contributing
