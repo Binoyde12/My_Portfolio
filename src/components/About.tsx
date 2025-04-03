@@ -1,7 +1,7 @@
 import React from 'react';
 import { Code, Database, Brain } from 'lucide-react';
 import { motion } from 'framer-motion';
-import Image from '/images/Portfolio.jpg'
+import Image from '/Portfolio.jpg'
 
 const About:React.FC = () => {
   const containerVariants = {
