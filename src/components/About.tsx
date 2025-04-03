@@ -1,6 +1,7 @@
 import React from 'react';
 import { Code, Database, Brain } from 'lucide-react';
 import { motion } from 'framer-motion';
+import Image from '/images/Portfolio.jpg'
 
 const About:React.FC = () => {
   const containerVariants = {
@@ -41,7 +42,7 @@ const About:React.FC = () => {
             <div className="absolute -inset-1 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg blur opacity-25 group-hover:opacity-75 transition duration-1000"></div>
             <div className="relative">
               <img
-                src="/images/Portfolio.jpg"
+                src={Image}
                 alt="Binoy Krishna Debnath"
                 width={400}
                 height={400}
