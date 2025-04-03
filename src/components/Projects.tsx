@@ -1,6 +1,10 @@
 import React, { useState } from 'react';
 import { Github, ExternalLink, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
+import pjImg from '/Myntra-clone-Banner.png';
+import pjImg1 from '/Detect Face.png';
+import pjImg2 from '/Medicine recom.png';
+
 
 interface Project {
   title: string;
@@ -20,7 +24,7 @@ const Projects:React.FC = () => {
       title: 'Myntra Clone',
       description: 'A functional e-commerce website mimicking the features of Myntra.',
       longDescription: 'Developed a comprehensive e-commerce platform that replicates core Myntra functionalities. Features include a dynamic product catalog, shopping cart implementation, user authentication, and responsive design for optimal viewing across devices.',
-      image: '/images/Myntra clone Banner.png',
+      image: pjImg,
       tech: ['HTML', 'CSS', 'JavaScript'],
       github: 'https://github.com/Binoyde12/MYNTRA-PROJECT-CLONE',
       demo: 'https://myntra-project-clone-zeta.vercel.app/'
@@ -29,7 +33,7 @@ const Projects:React.FC = () => {
       title: 'Face Detection Web App',
       description: 'A system to process images and identify facial expressions.',
       longDescription: 'Built an advanced face detection application that can analyze facial features and expressions in real-time. The system uses modern web technologies and machine learning models to provide accurate detection results.',
-      image: '/images/Detect Face.png',
+      image: pjImg1,
       tech: ['HTML', 'CSS', 'JavaScript'],
       github: 'https://github.com',
       demo: 'https://demo.com'
@@ -38,7 +42,7 @@ const Projects:React.FC = () => {
       title: 'Medicine Recommendation System',
       description: 'AI-powered system for personalized medicine recommendations.',
       longDescription: 'Implemented a sophisticated recommendation system using machine learning algorithms to suggest appropriate medications based on symptoms and patient history. The system includes disease prediction capabilities and personalized medicine recommendations.',
-      image: '/images/Medicine recom.png',
+      image: pjImg2,
       tech: ['HTML', 'CSS', 'JavaScript', 'Python', 'Machine Learning'],
       github: 'https://github.com',
       demo: 'https://demo.com'
