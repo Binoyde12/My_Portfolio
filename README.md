@@ -4,7 +4,11 @@
 This project is a personal portfolio website showcasing my skills, projects, and achievements. It is built using modern web technologies with a focus on clean design and responsiveness.
 
 ## Live Demo
+<<<<<<< HEAD
 [View Portfolio](https://Binoyde12.github.io/My_Portfolio/)
+=======
+[View Portfolio](https://binoyde12.github.io/My_Portfolio/)
+>>>>>>> f34286600bb8c19b941aafae8f2591a2415fc619
 
 ## Features
 - Interactive and responsive design
