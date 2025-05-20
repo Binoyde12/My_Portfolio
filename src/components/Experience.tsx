@@ -53,7 +53,7 @@ const Experience:React.FC = () => {
       school: 'Kalinga Institute of Industrial Technology (KIIT University)',
       degree: "Bachelor's Degree in Computer Science",
       period: 'Oct 2021 - Present',
-      details: 'GPA: 7.95'
+      details: 'CGPA: 8.02'
     },
     {
       school: 'Umakanta Academy',

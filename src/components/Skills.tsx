@@ -12,7 +12,7 @@ const Skills:React.FC= () => {
     },
     {
       title: 'Database Management',
-      skills: ['PostgreSQL', 'MongoDB', 'MySQL', 'Oracle']
+      skills: ['PostgreSQL', 'MongoDB', 'MySQL',]
     },
     {
       title: 'AI & Machine Learning',

@@ -82,6 +82,17 @@ const Hero:React.FC= () => {
             >
               Contact Me
             </motion.a>
+            <motion.a
+                href="https://drive.google.com/uc?export=download&id=1rDf6_puaGSgeGvIUezMPD-cIg0yLTmN7"
+                download
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center px-6 py-3 border border-gray-300 text-base font-medium rounded-md text-gray-100 bg-yellow-600 hover:bg-yellow-700 transition-colors"
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+              >
+                Download Resume
+              </motion.a>
           </motion.div>
         </motion.div>
       </div>
